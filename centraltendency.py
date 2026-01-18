@@ -1,4 +1,5 @@
 #descriptive statistics
+
 #1)Measure of central tendency:
 
 #Mean
